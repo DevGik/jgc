@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".WelcomeScreen">
+
+
+    <ImageView
+        android:id="@+id/imageViewPunchSPlash"
+        android:layout_width="329dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:padding="25sp"
+        android:src="@drawable/jgc_pic"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/textAnchorSplash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Ever Victorious and Never Defeated"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541275572153",
+    "project_id": "rccg-jgc-9a771",
+    "storage_bucket": "rccg-jgc-9a771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541275572153:android:d3b0432fb5c1027d711868",
+        "android_client_info": {
+          "package_name": "blogtech.techanchor.jgc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541275572153-atec7vbi8fgmmk404dbv0rq30fshb6on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3b6YbVd3pLYcPTLKs_Kc85SrqdTlM4sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541275572153-atec7vbi8fgmmk404dbv0rq30fshb6on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
